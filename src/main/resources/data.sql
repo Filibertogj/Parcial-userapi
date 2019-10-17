@@ -1,3 +1,4 @@
-INSERT INTO profesores (name, subject1, creation_date) VALUES ('Roger', 'Ecuaciones', NOW());
-INSERT INTO profesores (name, subject1, creation_date) VALUES ('Filiberto', 'Desarrollo', NOW());
-INSERT INTO profesores (name, subject1, creation_date) VALUES ('Andres', 'Etica', NOW());
+INSERT INTO user1 (name, countryid) VALUES (1,'Richard_feynman', '2');
+INSERT INTO user1 (name, countryid) VALUES (2,'Carl_Sagan', '2');
+INSERT INTO user1 (name, countryid) VALUES (3,'Marie_Curie', '1');
+INSERT INTO user1 (name, countryid) VALUES (4,'Johannes_Kepler', '3');
