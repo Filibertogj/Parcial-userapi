@@ -1,0 +1,173 @@
+!SESSION 2019-10-16 19:18:39.950 -----------------------------------------------
+eclipse.buildId=4.3.2.201908130627-RELEASE
+java.version=1.8.0_144
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.egit.core 1 0 2019-10-16 19:19:23.223
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.jface 2 0 2019-10-16 19:19:25.847
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-10-16 19:19:25.847
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@106802ea,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@785ef70f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-10-16 19:19:37.875
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\visio'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-16 19:22:24.760
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-16 19:22:24.762
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@3338d706[org.springframework.tooling.boot.ls:1.10.0.201908130624(id=624)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-16 19:22:24.764
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-16 19:22:24.803
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-16 19:22:27.521
+!MESSAGE Boot LS startup time from start to initialized: 2746ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-16 19:22:27.581
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.CpWdgsiyisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-16 19:22:27.584
+!MESSAGE subscribing to classpath changes: sts4.classpath.CpWdgsiy isBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-16 19:22:27.589
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-16 19:22:27.594
+!MESSAGE subsribers = {sts4.classpath.CpWdgsiy=Send Classpath Notifications(100)}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-16 19:22:27.595
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-16 19:22:27.637
+!MESSAGE project microservicioprofesores-master ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-16 19:22:27.639
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-16 19:22:27.641
+!MESSAGE Preparing classpath changed notification microservicioprofesores-master
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-16 19:22:27.643
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.CpWdgsiy => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-16 19:22:27.645
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-16 19:22:27.664
+!MESSAGE classpath=102 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-16 19:22:27.672
+!MESSAGE buffering callback sts4.classpath.CpWdgsiy microservicioprofesores-master false 102
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-16 19:22:27.675
+!MESSAGE executing callback sts4.classpath.CpWdgsiy 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-16 19:22:27.717
+!MESSAGE executing callback sts4.classpath.CpWdgsiy SUCCESS [done]
+
+!ENTRY org.eclipse.ui 2 2 2019-10-16 19:22:35.747
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-16 19:24:57.264
+!MESSAGE Preparing classpath changed notification microservicioprofesores-master
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-16 19:24:57.266
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-16 19:24:57.275
+!MESSAGE classpath=102 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-16 19:24:57.285
+!MESSAGE buffering callback sts4.classpath.CpWdgsiy microservicioprofesores-master false 102
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-16 19:24:57.287
+!MESSAGE executing callback sts4.classpath.CpWdgsiy 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-16 19:24:57.330
+!MESSAGE executing callback sts4.classpath.CpWdgsiy SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-16 20:37:17.000
+!MESSAGE Preparing classpath changed notification microservicioprofesores-master
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-16 20:37:17.003
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-16 20:37:17.006
+!MESSAGE buffering callback sts4.classpath.CpWdgsiy microservicioprofesores-master true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-16 20:37:17.008
+!MESSAGE Preparing classpath changed notification microserviciouserapi
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-16 20:37:17.010
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-16 20:37:17.013
+!MESSAGE classpath=23 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-16 20:37:17.015
+!MESSAGE buffering callback sts4.classpath.CpWdgsiy microserviciouserapi false 23
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-16 20:37:17.019
+!MESSAGE executing callback sts4.classpath.CpWdgsiy 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-16 20:37:17.070
+!MESSAGE executing callback sts4.classpath.CpWdgsiy SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-16 20:37:28.096
+!MESSAGE Preparing classpath changed notification microserviciouserapi
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-16 20:37:28.126
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-16 20:37:28.136
+!MESSAGE classpath=102 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-16 20:37:28.161
+!MESSAGE buffering callback sts4.classpath.CpWdgsiy microserviciouserapi false 102
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-16 20:37:28.163
+!MESSAGE executing callback sts4.classpath.CpWdgsiy 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-16 20:37:28.172
+!MESSAGE executing callback sts4.classpath.CpWdgsiy SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-16 20:42:05.100
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.CpWdgsiy
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-16 20:42:05.105
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.CpWdgsiy
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-16 20:42:05.109
+!MESSAGE subsribers = null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-16 20:42:05.112
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.CpWdgsiy => OK

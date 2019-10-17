@@ -1,0 +1,28 @@
+package co.edu.unilibre.stock.service.impl;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import co.edu.unilibre.stock.entity.Carro;
+import co.edu.unilibre.stock.repository.ICarroRepository;
+import co.edu.unilibre.stock.service.ICarroService;
+
+@Service
+public class CarroService implements ICarroService{
+
+	@Autowired
+	private ICarroRepository productRepository;
+	
+	@Override
+	public List<Carro> getAllList() {
+		return productRepository.findAll();
+	}
+
+	@Override
+	public Carro getById(Long id) {
+		return productRepository.findById(id).get();
+	}
+	
+}

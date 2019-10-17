@@ -1,0 +1,216 @@
+2019-10-16 19:19:37,531 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-10-16 19:20:43,659 [Worker-4: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: co.edu.unilibre.products:laboratories-service-products:0.0.1-SNAPSHOT @ C:\Users\visio\Desktop\microservicioprofesores-master\pom.xml.
+2019-10-16 19:20:51,684 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 19:20:51,690 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 19:20:51,714 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 19:20:51,727 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 19:20:51,727 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\visio\Desktop\microservicioprofesores-master\src\test\resources
+2019-10-16 19:22:49,268 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-10-16 19:23:00,364 [Worker-1: Launching microservicioprofesores-master] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\visio\Desktop\microservicioprofesores-master
+2019-10-16 19:23:00,365 [Worker-1: Launching microservicioprofesores-master] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install -Dstyle.color=always
+2019-10-16 19:23:00,454 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 19:23:00,462 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 19:23:00,487 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-16 19:23:00,493 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 19:23:00,496 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\visio\Desktop\microservicioprofesores-master\src\test\resources
+2019-10-16 19:24:50,457 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 19:24:50,457 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-16 19:24:50,458 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-16 19:24:50,460 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 19:24:50,460 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\visio\Desktop\microservicioprofesores-master\src\test\resources
+2019-10-16 19:24:58,296 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 19:24:58,325 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 19:24:58,429 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 19:24:58,613 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 19:24:58,614 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\visio\Desktop\microservicioprofesores-master\src\test\resources
+2019-10-16 19:25:07,503 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-10-16 19:25:07,719 [Worker-11: Launching microservicioprofesores-master] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\visio\Desktop\microservicioprofesores-master
+2019-10-16 19:25:07,720 [Worker-11: Launching microservicioprofesores-master] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install -Dstyle.color=always
+2019-10-16 19:25:44,884 [Worker-11: Launching Executing install in C__Users_visio_Desktop_microservicioprofesores-master] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\visio\Desktop\microservicioprofesores-master
+2019-10-16 19:25:44,885 [Worker-11: Launching Executing install in C__Users_visio_Desktop_microservicioprofesores-master] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install -Dstyle.color=always
+2019-10-16 19:25:54,338 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 19:25:54,341 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 19:25:54,346 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 19:25:54,349 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 19:25:54,350 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\visio\Desktop\microservicioprofesores-master\src\test\resources
+2019-10-16 19:30:41,525 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 19:30:41,534 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 19:30:41,542 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 19:30:41,551 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 19:30:41,553 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\visio\Desktop\microservicioprofesores-master\src\test\resources
+2019-10-16 19:31:08,720 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 19:31:08,724 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 19:31:08,738 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 19:31:08,744 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 19:31:08,744 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\visio\Desktop\microservicioprofesores-master\src\test\resources
+2019-10-16 19:31:36,733 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 19:31:36,734 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 19:31:36,739 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 19:31:36,746 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 19:31:36,747 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\visio\Desktop\microservicioprofesores-master\src\test\resources
+2019-10-16 19:31:57,715 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 19:31:57,717 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 19:31:57,724 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 19:31:57,728 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 19:31:57,729 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\visio\Desktop\microservicioprofesores-master\src\test\resources
+2019-10-16 19:32:25,773 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 19:32:25,774 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 19:32:25,779 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 19:32:25,783 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 19:32:25,785 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\visio\Desktop\microservicioprofesores-master\src\test\resources
+2019-10-16 19:32:45,779 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-10-16 19:32:54,109 [Worker-18: Launching microservicioprofesores-master (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\visio\Desktop\microservicioprofesores-master
+2019-10-16 19:32:54,110 [Worker-18: Launching microservicioprofesores-master (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install -Dstyle.color=always
+2019-10-16 19:33:13,741 [Worker-11: Launching Executing install in C__Users_visio_Desktop_microservicioprofesores-master] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\visio\Desktop\microservicioprofesores-master
+2019-10-16 19:33:13,741 [Worker-11: Launching Executing install in C__Users_visio_Desktop_microservicioprofesores-master] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install -Dstyle.color=always
+2019-10-16 19:33:21,483 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 19:33:21,485 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 19:33:21,490 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 19:33:21,492 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 19:33:21,493 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\visio\Desktop\microservicioprofesores-master\src\test\resources
+2019-10-16 20:06:15,050 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 20:06:15,050 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 20:06:15,057 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 20:06:15,063 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 20:06:15,063 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\visio\Desktop\microservicioprofesores-master\src\test\resources
+2019-10-16 20:06:57,809 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 20:06:57,809 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 20:06:57,814 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 20:06:57,819 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 20:06:57,820 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\visio\Desktop\microservicioprofesores-master\src\test\resources
+2019-10-16 20:07:18,206 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 20:07:18,207 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 20:07:18,213 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 20:07:18,217 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 20:07:18,217 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\visio\Desktop\microservicioprofesores-master\src\test\resources
+2019-10-16 20:07:42,025 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 20:07:42,026 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 20:07:42,029 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 20:07:42,029 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 20:07:42,033 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\visio\Desktop\microservicioprofesores-master\src\test\resources
+2019-10-16 20:08:53,458 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 20:08:53,460 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 20:08:53,462 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 20:08:53,470 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 20:08:53,470 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\visio\Desktop\microservicioprofesores-master\src\test\resources
+2019-10-16 20:09:54,151 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-10-16 20:10:02,690 [Worker-26: Launching microservicioprofesores-master (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\visio\Desktop\microservicioprofesores-master
+2019-10-16 20:10:02,695 [Worker-26: Launching microservicioprofesores-master (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install -Dstyle.color=always
+2019-10-16 20:10:02,804 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 20:10:02,809 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 20:10:02,810 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-16 20:10:02,815 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 20:10:02,815 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\visio\Desktop\microservicioprofesores-master\src\test\resources
+2019-10-16 20:10:22,375 [Worker-26: Launching Executing install in C__Users_visio_Desktop_microservicioprofesores-master] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\visio\Desktop\microservicioprofesores-master
+2019-10-16 20:10:22,375 [Worker-26: Launching Executing install in C__Users_visio_Desktop_microservicioprofesores-master] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install -Dstyle.color=always
+2019-10-16 20:10:30,317 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 20:10:30,322 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 20:10:30,325 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 20:10:30,330 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 20:10:30,332 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\visio\Desktop\microservicioprofesores-master\src\test\resources
+2019-10-16 20:12:33,369 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 20:12:33,369 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 20:12:33,373 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 20:12:33,375 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 20:12:33,379 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\visio\Desktop\microservicioprofesores-master\src\test\resources
+2019-10-16 20:13:04,077 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-10-16 20:13:09,564 [Worker-27: Launching microservicioprofesores-master (3)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\visio\Desktop\microservicioprofesores-master
+2019-10-16 20:13:09,565 [Worker-27: Launching microservicioprofesores-master (3)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install -Dstyle.color=always
+2019-10-16 20:15:16,469 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 20:15:16,472 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 20:15:16,477 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 20:15:16,498 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 20:15:16,498 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\visio\Desktop\microservicioprofesores-master\src\test\resources
+2019-10-16 20:15:46,957 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-10-16 20:15:55,442 [Worker-30: Launching microservicioprofesores-master (4)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\visio\Desktop\microservicioprofesores-master
+2019-10-16 20:15:55,445 [Worker-30: Launching microservicioprofesores-master (4)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install -Dstyle.color=always
+2019-10-16 20:16:12,929 [Worker-26: Launching Executing install in C__Users_visio_Desktop_microservicioprofesores-master] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\visio\Desktop\microservicioprofesores-master
+2019-10-16 20:16:12,930 [Worker-26: Launching Executing install in C__Users_visio_Desktop_microservicioprofesores-master] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install -Dstyle.color=always
+2019-10-16 20:16:20,431 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 20:16:20,549 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 20:16:20,617 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 20:16:20,619 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 20:16:20,619 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\visio\Desktop\microservicioprofesores-master\src\test\resources
+2019-10-16 20:18:45,699 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 20:18:45,699 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 20:18:45,704 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 20:18:45,705 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 20:18:45,709 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\visio\Desktop\microservicioprofesores-master\src\test\resources
+2019-10-16 20:21:08,383 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 20:21:08,387 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 20:21:08,394 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 20:21:08,399 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 20:21:08,399 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\visio\Desktop\microservicioprofesores-master\src\test\resources
+2019-10-16 20:21:42,095 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-10-16 20:21:47,684 [Worker-17: Launching microservicioprofesores-master (5)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\visio\Desktop\microservicioprofesores-master
+2019-10-16 20:21:47,685 [Worker-17: Launching microservicioprofesores-master (5)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install -Dstyle.color=always
+2019-10-16 20:22:11,480 [Worker-24: Launching Executing install in C__Users_visio_Desktop_microservicioprofesores-master] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\visio\Desktop\microservicioprofesores-master
+2019-10-16 20:22:11,481 [Worker-24: Launching Executing install in C__Users_visio_Desktop_microservicioprofesores-master] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install -Dstyle.color=always
+2019-10-16 20:22:18,558 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 20:22:18,559 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 20:22:18,565 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 20:22:18,569 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 20:22:18,569 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\visio\Desktop\microservicioprofesores-master\src\test\resources
+2019-10-16 20:25:49,999 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 20:25:49,999 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 20:25:50,004 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 20:25:50,010 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 20:25:50,010 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\visio\Desktop\microservicioprofesores-master\src\test\resources
+2019-10-16 20:26:45,528 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-10-16 20:26:51,523 [Worker-31: Launching microservicioprofesores-master (6)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\visio\Desktop\microservicioprofesores-master
+2019-10-16 20:26:51,523 [Worker-31: Launching microservicioprofesores-master (6)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install -Dstyle.color=always
+2019-10-16 20:27:16,462 [Worker-37: Launching Executing install in C__Users_visio_Desktop_microservicioprofesores-master] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\visio\Desktop\microservicioprofesores-master
+2019-10-16 20:27:16,462 [Worker-37: Launching Executing install in C__Users_visio_Desktop_microservicioprofesores-master] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install -Dstyle.color=always
+2019-10-16 20:27:24,026 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 20:27:24,061 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 20:27:24,073 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 20:27:24,077 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 20:27:24,078 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\visio\Desktop\microservicioprofesores-master\src\test\resources
+2019-10-16 20:31:53,494 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 20:31:53,497 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-16 20:31:53,498 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 20:31:53,507 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 20:31:53,511 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\visio\Desktop\microservicioprofesores-master\src\test\resources
+2019-10-16 20:32:11,198 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-10-16 20:32:20,713 [Worker-42: Launching microservicioprofesores-master (7)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\visio\Desktop\microservicioprofesores-master
+2019-10-16 20:32:20,713 [Worker-42: Launching microservicioprofesores-master (7)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install -Dstyle.color=always
+2019-10-16 20:32:37,752 [Worker-38: Launching Executing install in C__Users_visio_Desktop_microservicioprofesores-master] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\visio\Desktop\microservicioprofesores-master
+2019-10-16 20:32:37,754 [Worker-38: Launching Executing install in C__Users_visio_Desktop_microservicioprofesores-master] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install -Dstyle.color=always
+2019-10-16 20:32:45,395 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 20:32:45,403 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 20:32:45,458 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 20:32:45,488 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 20:32:45,489 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\visio\Desktop\microservicioprofesores-master\src\test\resources
+2019-10-16 20:35:13,509 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 20:35:13,509 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 20:35:13,516 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 20:35:13,516 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 20:35:13,519 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\visio\Desktop\microservicioprofesores-master\src\test\resources
+2019-10-16 20:35:24,404 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-10-16 20:35:32,585 [Worker-38: Launching microservicioprofesores-master (8)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\visio\Desktop\microservicioprofesores-master
+2019-10-16 20:35:32,586 [Worker-38: Launching microservicioprofesores-master (8)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install -Dstyle.color=always
+2019-10-16 20:35:47,240 [Worker-45: Launching Executing install in C__Users_visio_Desktop_microservicioprofesores-master] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\visio\Desktop\microservicioprofesores-master
+2019-10-16 20:35:47,242 [Worker-45: Launching Executing install in C__Users_visio_Desktop_microservicioprofesores-master] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install -Dstyle.color=always
+2019-10-16 20:35:55,409 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 20:35:55,411 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 20:35:55,416 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 20:35:55,421 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 20:35:55,422 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\visio\Desktop\microservicioprofesores-master\src\test\resources
+2019-10-16 20:37:25,594 [Worker-47: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: co.edu.unilibre.products:laboratories-service-products:0.0.1-SNAPSHOT @ C:\Users\visio\Desktop\microservicioprofesores-master\pom.xml.
+2019-10-16 20:37:27,772 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 20:37:27,773 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 20:37:27,851 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 20:37:27,898 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 20:37:27,902 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\visio\Desktop\microservicioprofesores-master\src\test\resources
+2019-10-16 20:37:29,917 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 20:37:29,920 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 20:37:29,924 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 20:37:29,936 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 20:37:29,936 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\visio\Desktop\microservicioprofesores-master\src\test\resources
+2019-10-16 20:38:31,796 [Worker-45: Launching Executing install in C__Users_visio_Desktop_microservicioprofesores-master] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\visio\Desktop\microservicioprofesores-master
+2019-10-16 20:38:31,797 [Worker-45: Launching Executing install in C__Users_visio_Desktop_microservicioprofesores-master] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install -Dstyle.color=always
+2019-10-16 20:38:39,249 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 20:38:39,252 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 20:38:39,260 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-16 20:38:39,261 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 20:38:39,265 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\visio\Desktop\microservicioprofesores-master\src\test\resources
